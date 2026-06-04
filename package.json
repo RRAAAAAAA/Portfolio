@@ -1,0 +1,11 @@
+{
+  "name": "renz-pilar-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio website for Renz Russel Angelo G. Pilar",
+  "scripts": {
+    "start": "npx serve . -p $PORT"
+  },
+  "dependencies": {
+    "serve": "^14.2.1"
+  }
+}
